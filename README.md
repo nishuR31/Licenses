@@ -1,42 +1,42 @@
+
 ## <h1>License Information</h1>
 
 When open-sourcing a project, choosing the right license is crucial to balancing your intentions for sharing your work and the legal protections you wish to maintain. Below is an overview of some commonly used open-source licenses, including their merits, drawbacks, and common use cases.
-<br>
-<hr>
-<br>
-
-<table style="border: none;">
-  <tr>
-    <td style="border: none;"><img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views"></td>
-    <td style="border: none;"><img src="https://img.shields.io/badge/Hello readers, kindly read the info below carefully-Thank you!-black" alt="Custom Badge"></td>
-    <td style="border: none;"><img src="https://img.shields.io/github/repo-size/nishuR31/Licenses?color=blueviolet" alt="GitHub Repo Size"></td>
-    <td style="border: none;"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet" alt="Open Source Love"></td>
-    <td style="border: none;"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></td>
-  
-  </tr>
-</table>
 
 <br>
 <hr>
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views">
+<img src="https://img.shields.io/badge/Hello readers, kindly read the info below carefully-Thank you!-black" alt="Custom Badge">
+<a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black" alt="GitHub Repo Size"></a>
+  <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black" alt="Open Source Love"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
+
+
+<br>
+<hr>
+<br>
+
+### <h1> LICENSES </h1>
 
 ### 1. **MIT License**
 
 #### Overview
-- **Permissions**: The MIT License is one of the most permissive licenses available. It allows anyone to use, modify, distribute, and sublicense your code with very few restrictions.
-- **Conditions**: The only requirement is that the original copyright notice and license text must be included in all copies or substantial portions of the software.
+- **Permissions**: Allows usage, modification, distribution, and sublicensing with few restrictions.
+- **Conditions**: Include original copyright notice and license text.
 
 #### Merits
-- **Simplicity**: Easy to understand and implement.
-- **Wide Adoption**: Encourages widespread use and contribution due to its minimal restrictions.
-- **Compatibility**: Compatible with almost all other licenses.
+- **Simplicity**: Easy to implement.
+- **Wide Adoption**: Minimal restrictions encourage use and contribution.
+- **Compatibility**: Works with most other licenses.
 
 #### Drawbacks
-- **Lack of Patent Protection**: Does not provide explicit patent rights, which may leave contributors vulnerable to patent claims.
+- **Patent Protection**: No explicit patent rights.
 
 #### Common Use Cases
-- Smaller projects, libraries, and tools where the goal is to maximize adoption with minimal legal overhead.
+- Smaller projects, libraries, and tools where broad adoption is desired.
 
 #### Learn More
 - [MIT License Text](https://opensource.org/licenses/MIT)
@@ -49,19 +49,18 @@ When open-sourcing a project, choosing the right license is crucial to balancing
 ### 2. **Apache License 2.0**
 
 #### Overview
-- **Permissions**: The Apache License 2.0 allows users to use, modify, and distribute the software, similar to the MIT License, but with additional terms.
-- **Conditions**: It includes an explicit grant of patent rights to users, a requirement to document significant changes to the code, and a provision that terminates the license if a user initiates patent litigation.
+- **Permissions**: Use, modify, and distribute with additional terms.
+- **Conditions**: Includes patent rights and a requirement for change documentation.
 
 #### Merits
-- **Patent Protection**: Provides an explicit grant of patent rights, protecting users from patent infringement claims.
-- **Corporate-Friendly**: Often favored by businesses due to its strong legal protections and clear terms.
-- **Contribution Clarity**: Requires documentation of significant changes, helping maintain clarity in project evolution.
+- **Patent Protection**: Protects against patent claims.
+- **Corporate-Friendly**: Clear terms and strong legal protections.
 
 #### Drawbacks
-- **Complexity**: More complex and lengthy than the MIT License, which might discourage some contributors.
+- **Complexity**: Lengthy and complex terms.
 
 #### Common Use Cases
-- Larger projects, enterprise-level software, or projects where patent protection is a concern.
+- Enterprise-level software with patent protection needs.
 
 #### Learn More
 - [Apache License 2.0 Text](https://www.apache.org/licenses/LICENSE-2.0)
@@ -74,19 +73,18 @@ When open-sourcing a project, choosing the right license is crucial to balancing
 ### 3. **GNU General Public License (GPL v3.0)**
 
 #### Overview
-- **Permissions**: The GPL v3.0 is a copyleft license that allows users to use, modify, and distribute software, but with a requirement that any derivative work must also be open-sourced under the same license.
-- **Conditions**: Requires that any modifications and derivative works are also licensed under the GPL, ensuring that the software and any improvements remain free and open.
+- **Permissions**: Use, modify, and distribute with strong copyleft requirements.
+- **Conditions**: Derivative works must be open-sourced under the same license.
 
 #### Merits
-- **Copyleft**: Ensures that the software and any derivative works remain open source.
-- **Strong Protections**: Includes protections against patent claims and anti-DRM provisions.
+- **Copyleft**: Ensures modifications remain open-source.
+- **Strong Protections**: Anti-DRM and patent provisions.
 
 #### Drawbacks
-- **Restrictive**: The strong copyleft nature can be too restrictive for projects intended for integration into proprietary software.
-- **Complexity**: More complex and potentially less approachable for some developers.
+- **Restrictive**: Can limit use in proprietary projects.
 
 #### Common Use Cases
-- Projects intended to remain open-source and free in perpetuity, such as operating systems or large collaborative projects.
+- Large collaborative projects needing open-source integrity.
 
 #### Learn More
 - [GPL v3.0 License Text](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -96,21 +94,44 @@ When open-sourcing a project, choosing the right license is crucial to balancing
 <hr>
 <br>
 
-### 4. **BSD 3-Clause License**
+### 4. **BSD 2-Clause License ("Simplified BSD License")**
 
 #### Overview
-- **Permissions**: The BSD 3-Clause License is a permissive license similar to the MIT License but with a few additional conditions.
-- **Conditions**: Requires that the original copyright notice, license text, and a disclaimer must be included in all copies or substantial portions of the software. It also includes a clause that prohibits using the names of the project or its contributors to promote derived products without written permission.
+- **Permissions**: Permissive license with minimal restrictions.
+- **Conditions**: Requires the inclusion of copyright and license notices.
 
 #### Merits
-- **Permissive**: Like the MIT License, it allows wide usage and modification.
-- **Name Protection**: The non-endorsement clause helps protect the project's reputation by preventing unauthorized use of names.
+- **Simplicity**: Very permissive and easy to understand.
+- **Compatibility**: Can be combined with proprietary software.
 
 #### Drawbacks
-- **Limited Patent Protection**: Does not explicitly address patent rights, similar to the MIT License.
+- **No Patent Rights**: Lacks explicit patent rights.
 
 #### Common Use Cases
-- Open-source projects that require name protection but still want a permissive license.
+- Projects where simplicity and permissiveness are priorities.
+
+#### Learn More
+- [BSD 2-Clause License Text](https://opensource.org/licenses/BSD-2-Clause)
+- [BSD 2-Clause Overview](https://choosealicense.com/licenses/bsd-2-clause/)
+
+<br>
+<hr>
+<br>
+
+### 5. **BSD 3-Clause License**
+
+#### Overview
+- **Permissions**: Similar to the BSD 2-Clause License but with additional non-endorsement conditions.
+- **Conditions**: Prohibits the use of names without permission.
+
+#### Merits
+- **Name Protection**: Prevents unauthorized name usage.
+
+#### Drawbacks
+- **Patent Protection**: No explicit patent rights.
+
+#### Common Use Cases
+- Projects requiring permissiveness and name protection.
 
 #### Learn More
 - [BSD 3-Clause License Text](https://opensource.org/licenses/BSD-3-Clause)
@@ -120,7 +141,147 @@ When open-sourcing a project, choosing the right license is crucial to balancing
 <hr>
 <br>
 
-### 5. **Mozilla Public License 2.0 (MPL 2.0)**
+### 6. **Creative Commons Zero v1.0 Universal (CC0)**
+
+#### Overview
+- **Permissions**: Allows for public domain dedication with no rights reserved.
+- **Conditions**: No restrictions on use or distribution.
+
+#### Merits
+- **Freedom**: Provides the maximum possible freedom.
+
+#### Drawbacks
+- **No Attribution Required**: May limit recognition.
+
+#### Common Use Cases
+- Projects meant for unrestricted use without attribution.
+
+#### Learn More
+- [CC0 License Text](https://creativecommons.org/publicdomain/zero/1.0/)
+- [CC0 Overview](https://choosealicense.com/licenses/cc0-1.0/)
+
+<br>
+<hr>
+<br>
+
+### 7. **Eclipse Public License 2.0**
+
+#### Overview
+- **Permissions**: Use, modify, and distribute with weak copyleft terms.
+- **Conditions**: Contributions must be licensed under the EPL or a compatible license.
+
+#### Merits
+- **Weak Copyleft**: Allows combining with proprietary software.
+
+#### Drawbacks
+- **Complexity**: More complex than permissive licenses.
+
+#### Common Use Cases
+- Projects needing weak copyleft without GPL restrictions.
+
+#### Learn More
+- [EPL 2.0 License Text](https://www.eclipse.org/legal/epl-2.0/)
+- [EPL 2.0 Overview](https://choosealicense.com/licenses/epl-2.0/)
+
+<br>
+<hr>
+<br>
+
+### 8. **GNU Affero General Public License (AGPL v3.0)**
+
+#### Overview
+- **Permissions**: Use, modify, and distribute with strong copyleft terms.
+- **Conditions**: Requires the release of source code when the software is accessed over a network.
+
+#### Merits
+- **Network Copyleft**: Ensures that network use modifications are shared.
+
+#### Drawbacks
+- **Restrictive**: Can be too restrictive for proprietary services.
+
+#### Common Use Cases
+- Web services and network software.
+
+#### Learn More
+- [AGPL v3.0 License Text](https://www.gnu.org/licenses/agpl-3.0.en.html)
+- [AGPL v3.0 Overview](https://choosealicense.com/licenses/agpl-3.0/)
+
+<br>
+<hr>
+<br>
+
+### 9. **GNU General Public License (GPL v2.0)**
+
+#### Overview
+- **Permissions**: Strong copyleft license requiring derivative works to be open-sourced.
+- **Conditions**: All modifications must be released under GPL v2.0.
+
+#### Merits
+- **Copyleft**: Ensures freedom of modifications.
+
+#### Drawbacks
+- **Compatibility Issues**: Incompatible with newer GPL versions.
+
+#### Common Use Cases
+- Projects that must remain under GPL v2.0.
+
+#### Learn More
+- [GPL v2.0 License Text](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+- [GPL v2.0 Overview](https://choosealicense.com/licenses/gpl-2.0/)
+
+<br>
+<hr>
+<br>
+
+### 10. **GNU Lesser General Public License (LGPL v2.1)**
+
+#### Overview
+- **Permissions**: Allows linking to proprietary software with modifications under LGPL.
+- **Conditions**: Modified versions must be open-sourced.
+
+#### Merits
+- **Flexibility**: Less restrictive than the GPL.
+
+#### Drawbacks
+- **Complexity**: More complex than permissive licenses.
+
+#### Common Use Cases
+- Libraries meant to be used by proprietary software.
+
+#### Learn More
+- [LGPL v2.1 License Text](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+- [LGPL v2.1 Overview](https://choosealicense.com/licenses/lgpl-2.1/)
+
+<br>
+<hr>
+<br>
+
+### 11. **GNU Lesser General Public License (LGPL v3.0)**
+
+#### Overview
+- **Permissions**: Allows linking to proprietary software with conditions.
+- **Conditions**: Modifications to the library must be released under LGPL.
+
+#### Merits
+- **Flexibility**: Can be used with proprietary software.
+
+#### Drawbacks
+- **Restrictions**: Changes to the library must be open-source.
+
+#### Common Use Cases
+- Open-source libraries intended for use in proprietary applications.
+
+#### Learn More
+- [LGPL v3.0 License Text](https://www.gnu.org/licenses/lgpl
+
+-3.0.en.html)
+- [LGPL v3.0 Overview](https://choosealicense.com/licenses/lgpl-3.0/)
+
+<br>
+<hr>
+<br>
+
+### 12. **Mozilla Public License 2.0 (MPL 2.0)**
 
 #### Overview
 - **Permissions**: The MPL 2.0 is a weak copyleft license that allows users to use, modify, and distribute the software with fewer restrictions than GPL.
@@ -144,47 +305,48 @@ When open-sourcing a project, choosing the right license is crucial to balancing
 <hr>
 <br>
 
+
+### 13. **Boost Software License**
+
+#### Overview
+- **Permissions**: Allows use, modification, and distribution with very permissive terms.
+- **Conditions**: Requires acknowledgment of the original authors in any distributed software.
+
+#### Merits
+- **Permissive**: Similar to MIT but includes a requirement for attribution.
+- **Simple**: Easy to understand and implement.
+
+#### Drawbacks
+- **No Patent Rights**: Does not include explicit patent rights.
+
+#### Common Use Cases
+- Libraries and tools where broad adoption and integration are desired without heavy legal constraints.
+
+#### Learn More
+- [Boost Software License Text](https://www.boost.org/users/license.html)
+- [Boost Software License Overview](https://choosealicense.com/licenses/boost/)
+
+<br>
+<hr>
+<br>
+
+
 ### Comparison of Licenses
 
-| Feature/License          | **MIT**            | **Apache 2.0**     | **GPL v3.0**          | **BSD 3-Clause**  | **MPL 2.0**               |
-|--------------------------|------------------- |--------------------|-----------------------|-------------------|---------------------------|
-| **Permissiveness**       | ✔️ Very Permissiv | ✔️ Permissive      | ❌ Copyleft          | ✔️ Permissive     | ⚠️ Limited Copyleft       |
-| **Patent Protection**    | ❌ No             | ✔️ Yes             | ✔️ Yes               | ❌ No             | ⚠️ Partial                |
-| **Simplicity**           | ✔️ Simple         | ❌ Complex         | ❌ Complex           | ✔️ Simple         | ⚠️ Moderate               |
-| **Copyleft**             | ❌ No             | ❌ No              | ✔️ Strong Copyleft   | ❌ No             | ⚠️ Weak Copyleft          |
-| **Contribution Clarity** | ❌ Minimal        | ✔️ Detailed        | ✔️ Detailed          | ❌ Minimal        | ⚠️ Moderate               |
-| **Name Protection**      | ❌ No             | ✔️ Yes             | ✔️ Yes               | ✔️ Yes            | ❌ No                     |
-| **Common Use Cases**     | Small projects,   | Enterprise software,|Open-source projects   |Libraries requiring|Projects needing flexibility|
-|                          |   libraries       |   patent concerns   |needing strong copyleft|name protection    |with some copyleft          |
-                                                  
-<br>
-<hr>
-<br>
-
-
-### Which License Should You Choose?
-
-Choosing the right license depends on your project’s goals, intended audience, and legal concerns:
-<br>
-
-- **For Maximum Permissiveness**: If you want your project to be easily adopted with minimal legal overhead, the **MIT License** or **BSD 3-Clause License** are excellent choices.
-  
-- **For Stronger Legal Protections**: If patent protection and contribution clarity are important, consider the**Apache License 2.0**. It is particularly useful for enterprise-level software or projects where patent protection is a significant concern.
-
-- **For Ensuring Software Remains Open Source**: If you want to ensure that your software and any derivative works remain open source, the **GNU General Public License (GPL v3.0)** is the best choice. This license is ideal for large collaborative projects and systems where maintaining open-source integrity is essential.
-
-- **For Balancing Open Source with Flexibility**: If you need a license that requires open-sourcing of modified files but allows for integrating with proprietary code, the **Mozilla Public License 2.0 (MPL 2.0)** offers a balanced approach. It's suitable for projects where flexibility in licensing is necessary.
-
-**Apache License 2.0**. It is particularly useful for enterprise-level software or projects where patent protection is a significant concern.
-
-- **For Ensuring Software Remains Open Source**: If you want to ensure that your software and any derivative works remain open source, the **GNU General Public License (GPL v3.0)** is the best choice. This license is ideal for large collaborative projects and systems where maintaining open-source integrity is essential.
-
-- **For Balancing Open Source with Flexibility**: If you need a license that requires open-sourcing of modified files but allows for integrating with proprietary code, the **Mozilla Public License 2.0 (MPL 2.0)** offers a balanced approach. It's suitable for projects where flexibility in licensing is necessary.
+| Feature/License          | **MIT**            | **Apache 2.0**     | **GPL v3.0**          | **BSD 3-Clause**  | **MPL 2.0**               | **Boost**                  | **GPL v2.0**              | **AGPL v3.0**             | **LGPL v2.1**            | **LGPL v3.0**            | **Eclipse 2.0**           | **CC0**                  |
+|--------------------------|------------------- |--------------------|-----------------------|-------------------|---------------------------|----------------------------|---------------------------|---------------------------|--------------------------|--------------------------|---------------------------|---------------------------|
+| **Permissiveness**       | ✔️ Very Permissive | ✔️ Permissive      | ❌ Copyleft            | ✔️ Permissive     | ⚠️ Limited Copyleft       | ✔️ Very Permissive         | ❌ Copyleft                | ❌ Strong Copyleft        | ⚠️ Limited Copyleft       | ⚠️ Limited Copyleft       | ✔️ Very Permissive        | ✔️ Very Permissive        |
+| **Patent Protection**    | ❌ No             | ✔️ Yes             | ✔️ Yes                 | ❌ No             | ⚠️ Partial                | ❌ No                      | ✔️ Yes                    | ✔️ Yes                    | ❌ No                     | ❌ No                     | ✔️ Yes                    | ❌ No                     |
+| **Simplicity**           | ✔️ Simple         | ❌ Complex         | ❌ Complex             | ✔️ Simple         | ⚠️ Moderate               | ✔️ Simple                  | ❌ Complex                | ❌ Complex                | ✔️ Simple                 | ✔️ Simple                 | ❌ Complex                 | ✔️ Simple                 |
+| **Copyleft**             | ❌ No             | ❌ No              | ✔️ Strong Copyleft     | ❌ No             | ⚠️ Weak Copyleft          | ❌ No                      | ✔️ Strong Copyleft        | ✔️ Strong Copyleft        | ✔️ Weak Copyleft          | ✔️ Weak Copyleft          | ❌ No                      | ❌ No                      |
+| **Contribution Clarity** | ❌ Minimal        | ✔️ Detailed        | ✔️ Detailed            | ❌ Minimal        | ⚠️ Moderate               | ❌ Minimal                 | ✔️ Detailed               | ✔️ Detailed               | ✔️ Detailed               | ✔️ Detailed               | ✔️ Detailed                | ❌ Minimal                 |
+| **Name Protection**      | ❌ No             | ✔️ Yes             | ✔️ Yes                 | ✔️ Yes            | ❌ No                     | ❌ No                      | ✔️ Yes                    | ✔️ Yes                    | ❌ No                     | ❌ No                     | ❌ No                      | ❌ No                     |
+| **Common Use Cases**     | Small projects,   | Enterprise software,| Open-source projects   | Libraries requiring| Projects needing flexibility| Libraries and tools       | Large projects            | Projects needing strong copyleft| Libraries needing compatibility| Libraries needing compatibility| Enterprise software,    | Projects with no restrictions |
+|                          | libraries         | patent concerns    | needing strong copyleft| name protection    | with some copyleft        |                            |                           |                           |                          |                          | patent concerns           |                           |
 
 <br>
 <hr>
 <br>
-
 
 
 ### Final Considerations
@@ -211,3 +373,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+

@@ -274,7 +274,6 @@ When open-sourcing a project, choosing the right license is crucial to balancing
 #### Learn More
 
 - [LGPL v3.0 License Text](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-
 - [LGPL v3.0 Overview](https://choosealicense.com/licenses/lgpl-3.0/)
 
 <br>
